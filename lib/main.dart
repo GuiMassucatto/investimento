@@ -12,7 +12,7 @@ class InvestimentoApp extends StatelessWidget {
     return MaterialApp(
       title: 'Simulador de Investimentos',
       theme: ThemeData(
-        primarySwatch: Colors.purple,
+        primarySwatch: Colors.green,
       ),
       home: const InvestimentoPage(),
     );
@@ -128,7 +128,7 @@ class _InvestimentoPageState extends State<InvestimentoPage> {
                       style: const TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,
-                          color: Colors.purple),
+                          color: Colors.green),
                     ),
                   ],
                 ),
