@@ -1,7 +1,7 @@
 # Simulador de Investimentos
 -Este projeto em Flutter é um simulador de investimentos, permitindo que os usuários insiram o valor de investimento mensal, o período de aplicação (em meses) e a taxa de juros mensal. Com base nesses dados, o aplicativo calcula e exibe o valor total acumulado ao final do período, tanto sem juros quanto com a aplicação de juros compostos.
 
-|![Print0](./assets/investimento.png)
+![Print0](./assets/investimento.png)
 
 # Tecnologias
 - Flutter
